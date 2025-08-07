@@ -1,0 +1,13 @@
+Django>=5.0
+psycopg2-binary>=2.9
+gunicorn
+djangorestframework-simplejwt
+django-filter
+dj-rest-auth[with_social] 
+django-allauth
+drf-spectacular
+drf-spectacular-sidecar
+whitenoise
+celery
+redis
+django-celery-beat
